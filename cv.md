@@ -7,7 +7,8 @@
     + [LinkedIn](https://www.linkedin.com/in/al-chemick)
     + [GitHub](https://github.com/AlexUnion)
     + [Portfolio](https://alexunion.github.io/my_portfolio/)
-    
++ About me
+  > My name is Kyrychenko Alexey. I am a graduate of the Department of “Computer Engineering” at Vinnytsia National Technical University. I am well aware of the principles of OOP and master the basic level of multiple common programming languages. After graduating from University I have passed the training course “Front-End Pro” at Hillel School.
 + My skills
     + Programming languages: JavaScript, TypeScript;
     + Technologies: HTML, CSS, SASS/SCSS, React, Axios, Json, AJAX, Node JS, Redux;
